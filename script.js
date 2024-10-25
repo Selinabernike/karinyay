@@ -110,7 +110,7 @@ function showResult() {
     scoreElement.innerText = score;
 
     // Ucapan ulang tahun yang mendalam dan menyentuh
-    birthdayMessage.innerText = `Happy Birthday, Karina! On this special day, I want you to know how much you are cherished. Your kindness, intelligence, and passion for life inspire those around you. As you step into another year, may it be filled with beautiful moments, new adventures, and dreams that come true. Remember, you are never alone; we are all here to support you every step of the way. Celebrate yourself today, because you deserve all the happiness in the world. Here's to another amazing year ahead! 🎉❤️`;
+    birthdayMessage.innerText = `Happy Birthday, Karina! On this special day, I want you to know how much you are cherished. Your kindness, your beauty, intelligence, passion and all about you for life inspire those around you. As you step into another year, may it be filled with beautiful moments, new adventures, and dreams that come true. Remember, you are never alone yhaa, i'll be here to support you every step of the way. Celebrate yourself today, because you deserve all the happiness in the world. Here's to another amazing year ahead! 🤍🫂`;
 }
 
 function restartQuiz() {
